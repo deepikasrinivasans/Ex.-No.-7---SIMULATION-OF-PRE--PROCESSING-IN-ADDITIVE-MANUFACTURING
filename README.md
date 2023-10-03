@@ -44,9 +44,10 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![empd exp07](https://github.com/deepikasrinivasans/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119393935/9fbd3339-b027-4ee9-88e6-3ae94b917659)
 
-### Name:
-### Register Number:
+### Name: Deepika S
+### Register Number: 212222230028
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
