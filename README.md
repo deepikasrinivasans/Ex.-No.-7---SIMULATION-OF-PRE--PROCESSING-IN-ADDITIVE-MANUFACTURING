@@ -46,6 +46,13 @@
 ## Output:
 ![empd exp07](https://github.com/deepikasrinivasans/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119393935/9fbd3339-b027-4ee9-88e6-3ae94b917659)
 
+<br>
+
+<br>
+
+<br>
+
+
 ### Name: Deepika S
 ### Register Number: 212222230028
 
